@@ -1,6 +1,16 @@
 # Cyber-Swiss-Knife
 A Custom hacking/testing and a cool tool that can be used as a watch and a NFC key for such things as cards, scooters etc. it has security systems and a ESP32-S3-N16R8  on it.
 
+## Required Library Setup
+Open Arduino IDE and install the following libraries via Tools -> Manage Libraries:
+
+1-Adafruit SSD1306 (by Adafruit)
+2-Adafruit GFX Library (by Adafruit)
+3-RF24 (by TMRh20)
+4-ELECHOUSE_CC1101_SRC_DRV (by Elechouse)
+5-PN532 (by Seeed Studio)
+6-esp32(by Espressif Systems)
+
 ## Features
 
 This Hacking tool works as a keychain on your bag, a watch, a nfc wallet and a  wireless connections trolling-tool.
