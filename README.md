@@ -92,7 +92,7 @@ Cyber-Swiss-Knife/
 │   ├── KiCad project
 │   ├── Schematic
 │   ├── PCB layout
-│   
+│   |── BOM file
 │
 ├── Production/
 │   └── Gerber and drill files
