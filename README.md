@@ -1,5 +1,6 @@
 # Cyber-Swiss-Knife
 A Custom hacking/testing and a cool tool that can be used as a watch and a NFC key for such things as cards, scooters etc. it has security systems and a ESP32-S3-N16R8  on it.
+![3D CAD view:](IMAGES/Cyber_swiss_detailed.png)
 
 ## Required Library Setup
 Open Arduino IDE and install the following libraries via Tools -> Manage Libraries:
@@ -63,6 +64,8 @@ The prototype currently uses:
 
 The PCB was designed in **KiCad**.
 
+<img src="IMAGES/pcb_front.png" width="300" alt="Pcb front view">  <img src="IMAGES/pcb_back.png" width="300" alt="Pcb back view">
+
 The repository contains:
 
 - KiCad schematic
@@ -89,7 +92,7 @@ Cyber-Swiss-Knife/
 │   ├── KiCad project
 │   ├── Schematic
 │   ├── PCB layout
-│   └── BOM
+│   
 │
 ├── Production/
 │   └── Gerber and drill files
