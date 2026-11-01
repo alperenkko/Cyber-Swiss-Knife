@@ -1,5 +1,5 @@
 Item Name,Quantity,Unit Price ($) (no shipping included),Total Price ($) (shipping included),Purpose,Item Link
-ESP32 S3 N16R8 WiFi Bluetooth Board,1,15.19,$15.19,Main controller Board,https://www.direnc.net/esp32-s3-n16r8-wifi-bluetooth-board?language=tr&h=6bd8c412
+ESP32 S3 N16R8 WiFi Bluetooth Board,1,15.46,$15.46,Main controller Board,https://www.direnc.net/esp32-s3-n16r8-wifi-bluetooth-board?language=tr&h=6bd8c412
 "OLED COG 128X64 WHITE 1.3""",1,10.28,$10.28,screen for time and features,https://www.ozdisan.com/p/cog-oledler-893/xiamen-precise-pgo12864b-w-644994
 RFID READER WRITER PN532 ANDROID,1,4.31,$4.31,NFC module for cards,https://www.ozdisan.com/p/rf-antenler-660/sunnyway-rf-swf009-sw20061ib77-1210813
 RF ANTENNA FPC 4G&3G&2G&LPWA IPEX MHF1,1,0.67,$0.67,Antenna for better range,https://www.ozdisan.com/p/rfid-moduller-ve-aksesuarlar-1005748/ozd-arduino-nfc-rfid-module-536934
@@ -9,4 +9,4 @@ CC1101 Wireless antenna module,1,7.85,$7.85,antenna module for higher frequencie
 NRF24L01 + PA + LNA SMA Antenna 2.4 GHz,1,3.16,$9.30,antenna for wifi and stuff,https://www.robotistan.com/nrf24l01-pa-lna-sma-anten-24ghz-kablosuz-haberlesme-modulu?language=tr&h=ccfcaf7a
 Mini360 regulator,1,3,$3,voltage input for the circuit,https://www.robotronik.com.tr/mini360-dc-dc-2a-ayarlanabilir-voltaj-dusurucu-regulator-karti-step-down-475-23v-1-17v-a0183
 PCB cost,1,25,$25,cost for custom pcb,https://www.onwaypcb.com/
-TOTAL,-,-,$89.42,total cost with shipping,-
+TOTAL,-,-,$89.69,total cost with shipping,-
