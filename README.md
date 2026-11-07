@@ -3,14 +3,27 @@ A Custom hacking/testing and a cool tool that can be used as a watch and a NFC k
 ![3D CAD view:](IMAGES/Cyber_swiss_detailed.png)
 
 ## Required Library Setup
-Open Arduino IDE and install the following libraries via Tools -> Manage Libraries:
+### Open Arduino IDE and install the following libraries via Tools -> Manage Libraries:
 
 1-Adafruit SSD1306 (by Adafruit)
+
 2-Adafruit GFX Library (by Adafruit)
+
 3-RF24 (by TMRh20)
+
 4-ELECHOUSE_CC1101_SRC_DRV (by Elechouse)
+
 5-PN532 (by Seeed Studio)
+
 6-esp32(by Espressif Systems)
+
+### Required Library Setup for The schematics File:
+Go to ´Libraries´  and download the ZIP file Unzip it in a folder and then do the following order:
+Open **Kicad** and the schematic file through there,
+1. Go to Preferences -> Manage Symbol Libraries... in KiCad.
+2. Choose Project Specific Libraries tab (only for the current project).
+3. Click the Add existing library to table button (folder icon) at the bottom.
+4. Browse to your unzipped folder and add the files
 
 ## Features
 
@@ -75,6 +88,12 @@ The repository contains:
 - BOM
 - PCB production files
 
+##  Schematics
+
+<img src="IMAGES/schematics.png" width="1000" alt="Schematics View"> 
+
+The Schematics were designed in **Kicad**
+If theres missing symbols, add The required Library In the Top ¨Required Library Setup for kicad¨
 
 
 ## 📁 Repository Structure
