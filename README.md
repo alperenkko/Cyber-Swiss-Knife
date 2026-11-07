@@ -18,7 +18,7 @@ A Custom hacking/testing and a cool tool that can be used as a watch and a NFC k
 6-esp32(by Espressif Systems)
 
 ### Required Library Setup for The schematics File:
-Go to ´Libraries´  and download the ZIP file Unzip it in a folder and then do the following order:
+Go to `/Libraries` and download the ZIP file Unzip it in a folder and then do the following order:
 Open **Kicad** and the schematic file through there,
 1. Go to Preferences -> Manage Symbol Libraries... in KiCad.
 2. Choose Project Specific Libraries tab (only for the current project).
@@ -27,8 +27,8 @@ Open **Kicad** and the schematic file through there,
 
 ## Features
 
-This Hacking tool works as a keychain on your bag, a watch, a nfc wallet and a  wireless connections trolling-tool.
-1- You can scan high frequencies and reuse them, troll wifi and bluetooth connections.
+This Hacking tool works as a keychain on your bag, a watch, an nfc wallet and a  wireless connections trolling-tool.
+1- You can scan/sniff high frequencies and reuse them, troll wifi and bluetooth connections.
 2-You can use it as a NFC-Wallet for simple cards such as escooter, e bike and metro cards.
 3-You can use it as a keychain! it looks Cool and works pretty well.
 4-A watch! 
