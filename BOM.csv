@@ -10,5 +10,5 @@ NRF24L01 + PA + LNA SMA Antenna 2.4 GHz,2,$4,$10,antenna for wifi and stuff,http
 Mini360 regulator,1,4,$5,voltage input for the circuit,https://www.robotronik.com.tr/mini360-dc-dc-2a-ayarlanabilir-voltaj-dusurucu-regulator-karti-step-down-475-23v-1-17v-a0183
 PCB cost,1,25,$25,cost for custom pcb,https://jlcpcb.com/
 68uF 250V capacitor,2,$2,$2,fixing voltage sags,https://www.motorobit.com/68uf-250v-elektrolitik-kondansator-13x26mm-kisa-bacakli
-TOTAL,-,-,$96,56,total cost with shipping,-
+TOTAL,-,-,$96.56,total cost with shipping,-
 NOTE,-,-,-,The PCB and some of the Items cost more than expected in my country because of the New customs rules. sorry for asking more grant than needed.,-
