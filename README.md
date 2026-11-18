@@ -80,7 +80,7 @@ The prototype currently uses:
 
 The PCB was designed in **KiCad**.
 
-<img src="IMAGES/PCB_preview.png" width="300" alt="Pcb front view">  <img src="IMAGES/PCB_back.png" width="300" alt="Pcb back view">
+<img src="PCB/PCB_preview.png" width="300" alt="Pcb front view">  <img src="IMAGES/PCB_back.png" width="300" alt="Pcb back view">
 
 The repository contains:
 
@@ -93,7 +93,7 @@ The repository contains:
 
 ##  Schematics
 
-<img src="IMAGES/Schematic_preview.png" width="1000" alt="Schematics View"> 
+<img src="PCB/Schematic_preview.png" width="1000" alt="Schematics View"> 
 
 The Schematics were designed in **Kicad**
 If theres missing symbols, add The required Library In the Top ¨Required Library Setup for kicad¨
