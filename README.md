@@ -28,10 +28,13 @@ Open **Kicad** and the schematic file through there,
 ## Features
 
 This Hacking tool works as a keychain on your bag, a watch, an nfc wallet and a  wireless connections trolling-tool.
-1- You can scan/sniff high frequencies and reuse them, troll wifi and bluetooth connections.
-2-You can use it as a NFC-Wallet for simple cards such as escooter, e bike and metro cards.
-3-You can use it as a keychain! it looks Cool and works pretty well.
-4-A watch! 
+1- Wireless Connections Sniffing/copying
+
+2-NFC feature allows you to copy basic cards and use them!(metro cards, basic magnetic cards etc.)
+
+3- A really big Keychain!
+
+4- Wireless connections hacking/testing (beacon attack, selective wifi jamming etc.
 
 ---
 
@@ -77,7 +80,7 @@ The prototype currently uses:
 
 The PCB was designed in **KiCad**.
 
-<img src="IMAGES/pcb_front.png" width="300" alt="Pcb front view">  <img src="IMAGES/pcb_back.png" width="300" alt="Pcb back view">
+<img src="IMAGES/PCB_preview.png" width="300" alt="Pcb front view">  <img src="IMAGES/PCB_back.png" width="300" alt="Pcb back view">
 
 The repository contains:
 
@@ -90,7 +93,7 @@ The repository contains:
 
 ##  Schematics
 
-<img src="IMAGES/schematics.png" width="1000" alt="Schematics View"> 
+<img src="IMAGES/Schematic_preview.png" width="1000" alt="Schematics View"> 
 
 The Schematics were designed in **Kicad**
 If theres missing symbols, add The required Library In the Top ¨Required Library Setup for kicad¨
